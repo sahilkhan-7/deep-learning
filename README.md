@@ -1,10 +1,15 @@
 # Deep Learning Repository
 
+```python
+print("Chin Tapak Dam Dam")
+# Output: Chin Tapak Dam Dam
+```
+
 Welcome to my Deep Learning Repository! This repository serves as a collection of all my deep learning learnings and projects. Here, you will find a variety of resources, including code examples, tutorials, and documentation related to deep learning.
 
 ## Table of Contents
 
-- [Introduction](#introduction)
+- [Introduction](https://github.com/sahilkhan-7/deep-learning/blob/main/Introduction.ipynb)
 - [Getting Started](#getting-started)
 - [Projects](#projects)
 - [Contributing](#contributing)
